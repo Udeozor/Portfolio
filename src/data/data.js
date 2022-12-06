@@ -3,7 +3,6 @@ import dashboard from "../assets/dashboard.png";
 import BookingSite from "../assets/BookingSite.png";
 import suitelandingpage from "../assets/suitelandingpage.png";
 import cryptoapp from "../assets/cryptoapp.png";
-import { Simulate } from "react-dom/test-utils";
 
 export const data = [
   {
@@ -35,19 +34,7 @@ export const data = [
   {
     id: 5,
     name: cryptoapp,
-    github: "https://github.com/Udeozor/Suite-Landing-Page",
-    live: "https://suite-landing-page-pied.vercel.app/",
-  },
-  {
-    id: 2,
-    name: "dashboard",
-    github: "https://github.com/Udeozor/Shoes-Ecommerce",
-    live: "https://ncdc-react-dashboard.vercel.app/",
-  },
-  {
-    id: 2,
-    name: "dashboard",
-    github: "https://github.com/Udeozor/Shoes-Ecommerce",
-    live: "https://ncdc-react-dashboard.vercel.app/",
+    github: "https://github.com/Udeozor/crypto-app",
+    live: "https://crypto-app-opal-seven.vercel.app/",
   },
 ];
