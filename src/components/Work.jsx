@@ -4,7 +4,7 @@ import dashboard from '../assets/dashboard.png';
 import BookingSite from '../assets/BookingSite.png';
 import suitelandingpage from '../assets/suitelandingpage.png';
 import cryptoapp from '../assets/cryptoapp.png';
-import { useState } from 'react';
+
 
 
 
@@ -124,11 +124,11 @@ const Work = () => {
                           </span>
                           
                       <div className='pt-8 text-center'>
-                         <a href="https://suite-landing-page-pied.vercel.app/">
+                         <a href="https://crypto-app-opal-seven.vercel.app/">
                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#0000FF] text-gray-700 font-bold text-lg'>Demo</button>
                               </a>
                               
-                          <a href="https://github.com/Udeozor/Suite-Landing-Page">
+                          <a href="https://github.com/Udeozor/crypto-app">
                               <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#0000FF] text-gray-700 font-bold text-lg'>Code</button>
                           </a>
                 
